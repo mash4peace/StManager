@@ -1,0 +1,7 @@
+Record{name='4ws',consgrID=1,numberOFitems=3,artist='wfd',title=' wefd',salePrx=3.0, date= Wed May 03 00:24:40 CDT 2017}
+Record{name='Record{name='4ws'',consgrID=0,numberOFitems=0,artist='null',title=' null',salePrx=0.0, date= Wed May 03 00:31:23 CDT 2017}
+
+Record{name='Record{name='4ws'',consgrID=0,numberOFitems=0,artist='null',title=' null',salePrx=0.0, date= Wed May 03 00:31:23 CDT 2017}
+
+Record{name='4we',consgrID=1,numberOFitems=8,artist='qwsaxz',title=' eds',salePrx=2.0, date= Wed May 03 00:31:51 CDT 2017}
+
